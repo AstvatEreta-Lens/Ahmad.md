@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Al  👋
 ## 🚀 About Me
-I'm a Computer Science Student in Pertamina University
+I'm a Computer Science Student
 # 🧠 Focus
 - Backend
 - Data Engineer
